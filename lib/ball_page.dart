@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:magic_8_ball_flutter/ball_controller.dart';
+import 'package:magic_8_ball_flutter/ball_answer.dart';
 
 import 'package:google_fonts/google_fonts.dart';
 
