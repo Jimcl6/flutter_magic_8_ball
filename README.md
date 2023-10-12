@@ -1,6 +1,6 @@
 # magic_8_ball_flutter
 
-A new Flutter project.
+A Flutter Project Challenge by Dr. Angela Yu from her "Complete Flutter Development Bootcamp" Udemy Course.
 
 ## Getting Started
 
